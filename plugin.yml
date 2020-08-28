@@ -1,0 +1,5 @@
+name: ShowWorld
+version: 1.0
+description: montre ou sont les joueurs dans le tabList / show where are players in tabList
+author: Synol_
+main: fr.synol.showworld.MainPlugin

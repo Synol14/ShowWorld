@@ -1,0 +1,13 @@
+#================================#
+#    Do not use ShowOp plugin    #
+#================================#
+setting:
+  showOp: false
+  opPrefix: "&e[&4op&e] &r"
+  showCreative: false
+  creativeSufix: "&e ->crea"
+worlds:
+  world: BLUE
+  world_nether: DARK_RED
+  world_the_end: DARK_PURPLE
+  other: FRONTLINE
