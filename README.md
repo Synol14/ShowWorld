@@ -1,7 +1,7 @@
 # ShowWorld
 A simple Minecraft plugin for see where are players.
 
-Version : 1.0
+Version : 1.0  
 Author : Synol_
 
 -->This plugin doesn't have any commands. 
